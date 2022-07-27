@@ -1,6 +1,4 @@
-from re import A
-
-
+# this code will alternate the input numbers
 a= input("a = ")
 b= input("b = ")
 
