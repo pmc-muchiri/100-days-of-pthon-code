@@ -8,5 +8,5 @@ print(city)
 pet = input("What is the name of your pet:\n ")
 print(pet)
 #4. Combine the name of their city and pet and show them their band name.
-print (pet + city)
+print ("my lovely pet is " + pet + " and I was born in " + city + " Kenya")
 #5. Make sure the input cursor shows on a new line, see the example at:
